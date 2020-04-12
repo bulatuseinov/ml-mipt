@@ -10,6 +10,14 @@ Also it's no good in spoilering solutions to your fellows - they lose an occasio
 
 It's good to have a repo with the task solved, so you could have a *private* repo either on GitHub with student account or on [GitLab](https://gitlab.com/) or anywhere else.
 
+<<<<<<< HEAD
+=======
+## Submission and deadlines
+Assignments (`assignment*`) are graded via Yandex.Contest service. Deadlines are strict (if not specified otherwise).
+
+Laboratory assignments (`Lab*`) are graded manually. They should be submitted via corresponding form. Deadline is soft: the mark for Lab assignment decreases by 10% for every day and freezes after one week. So 2 days after deadline the score will be computed as `assignmnent score * (1 - 0.2)`. After 7 days and more the score will be computed as `assignment_score * 0.3`.
+
+>>>>>>> 3e93c1903f1570f3182bb6991cd9328fc106adc5
 ## Codestyle
 
 > Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живёте
